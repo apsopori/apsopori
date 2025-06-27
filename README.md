@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayush Chatta
+# 👋 Hi, I'm Ayush
 
 Software Development enthusiast with a keen intrest in backend systems, databases, and software design. Passionate about building scalable web applications and solving real-world problems through code.
 
