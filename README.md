@@ -15,5 +15,3 @@ B.Tech in ICT | *Oct 2021 – May 2025*
 - 🔗 [GitHub](https://github.com/apsopori)
 
 ---
-
-> Feel free to explore my repositories or reach out for collaboration opportunities!
