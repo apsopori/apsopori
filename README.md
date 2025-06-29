@@ -5,7 +5,7 @@ Software Development enthusiast with a keen intrest in backend systems, database
 ## 🎓 Education
 
 **Dhirubhai Ambani Institute of ICT**  
-B.Tech in ICT | *Oct 2021 – May 2025* 
+B.Tech (ICT) | *Oct 2021 – May 2025* 
 
 ---
 
